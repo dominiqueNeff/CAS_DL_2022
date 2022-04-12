@@ -1,0 +1,18 @@
+CNN
+        img_width = 32,
+        img_height = 32,
+        Number Conv Layer = 1,
+        Number Conv Series = 1,
+        Number Kernels = [16],
+        Kernel Size = (5, 5),
+        Pool Size = (2, 2),
+        Padding = same,
+        Number Hidden Layers = 0,
+        Number Neurons = [0]
+        Dropout Hidden = False,
+        Dropout Conv = False,
+        Batch Size = 64,
+        Epochs = 50,
+        Augmentation = False
+        MC_Dropout = False
+        

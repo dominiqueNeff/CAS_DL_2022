@@ -1,0 +1,7 @@
+ Data Split Informations
+
+        Number of trainings examples = 177,
+        Number of validation examples = 38,
+        Number of test examples = 38
+        Class weights = {0: 1.2464788732394365, 1: 0.8349056603773585}
+        
